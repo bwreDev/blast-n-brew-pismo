@@ -4,7 +4,7 @@ const data = {
 	mapUrl:
 		'https://www.google.com/maps/place/2131+Price+St,+Pismo+Beach,+CA+93449/@35.148165,-120.6509844,17z/data=!3m1!4b1!4m5!3m4!1s0x80ec58ec77efa535:0x9aa0a4162666749c!8m2!3d35.148165!4d-120.6487957',
 	phone: '(805) 295-5151',
-	email: 'santamaria.meneds@cc-rg.com',
+	email: 'info@blastandbrewpismobeach.com',
 	hours: {
 		monday: '3:00pm - 10:00pm',
 		tuesday: '3:00pm - 10:00pm',
@@ -25,9 +25,10 @@ const data = {
 	},
 	social: {
 		facebook:
-			'https://www.facebook.com/Me-N-Eds-Pizzeria-and-Craft-House-Santa-Maria-107905798246434',
-		instagram: 'https://www.instagram.com/meneds_santamaria/',
-		yelp: 'https://www.yelp.com/biz/me-n-ed-s-pizzeria-and-crafthouse-santa-maria?osq=me+n+eds',
+			'https://www.facebook.com/Blast-Brew-Pismo-Beach-109813094869833',
+		instagram:
+			'https://www.instagram.com/blastandbrewpismo/?fbclid=IwAR2VlZ8BpMbRJxiVDQ36GT4yduLmtE-vLo-2OUFxTZNJ8JzgvTfpZMktE9c',
+		yelp: 'https://www.yelp.com/biz/blast-and-brew-pismo-beach-2?osq=Blast+%26+Brew',
 	},
 };
 
