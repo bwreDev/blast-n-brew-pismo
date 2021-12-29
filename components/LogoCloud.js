@@ -9,7 +9,7 @@ export default function LogoCloud() {
 						<div className='flow-root mt-8'>
 							<div className='flex flex-wrap justify-around'>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
+									<Link href='/'>
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
@@ -20,7 +20,7 @@ export default function LogoCloud() {
 									</Link>
 								</div>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
+									<Link href='/'>
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
@@ -31,7 +31,7 @@ export default function LogoCloud() {
 									</Link>
 								</div>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
+									<Link href='/'>
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
@@ -50,6 +50,7 @@ export default function LogoCloud() {
 								<a>
 									<img
 										src='/svg/ccrg-outlined.svg'
+										alt='CCRG'
 										className='h-20 md:24 lg:h-28 w-auto mx-auto'
 									/>
 								</a>

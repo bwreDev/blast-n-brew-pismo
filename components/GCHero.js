@@ -6,7 +6,7 @@ export default function GCHero() {
 					<img
 						className='w-full h-full object-cover'
 						src='/images/ccrg-gc.jpg'
-						alt='Blast 825 Gift Card Promo'
+						alt='CCRG Gift Card Promo'
 					/>
 				</div>
 				<div className='relative max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-16 2xl:p-36'>

@@ -30,7 +30,7 @@ export default function Home() {
 				<link
 					rel='apple-touch-icon'
 					sizes='180x180'
-					href='/images/'
+					href='/images/pismo-blast-brew.jpg'
 				/>
 				<link
 					rel='icon'

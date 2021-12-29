@@ -57,7 +57,7 @@ export default function SubHero() {
 								<a href={`tel:${data.phone}`}>{data.phone}</a>
 								<br />
 								<a
-									href={`mailto:${data.email}?cc=wendy@cc-rg.com, dferdinandi@blast825taproom.com&subject=Contact Santa Maria Me-n-Ed's | `}>
+									href={`mailto:${data.email}?cc=wendy@cc-rg.com, dferdinandi@blast825taproom.com&subject=Contact Pismo Blast & Brew `}>
 									{data.email}
 								</a>
 							</p>
