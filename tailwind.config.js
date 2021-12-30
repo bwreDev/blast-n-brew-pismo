@@ -6,7 +6,7 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				'grunge-overlay': 'url(/SVG/sm-md-grunge-black-66.SVG)',
+				'grunge-overlay': 'url(/SVG/sm-md-grunge-black-66.svg)',
 			},
 		},
 	},

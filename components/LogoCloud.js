@@ -13,7 +13,7 @@ export default function LogoCloud() {
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
-												src='/SVG/me-n-eds-crafthouse.SVG'
+												src='/SVG/me-n-eds-crafthouse.svg'
 												alt="Me and Ed's"
 											/>
 										</a>
@@ -24,7 +24,7 @@ export default function LogoCloud() {
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
-												src='/SVG/blast-n-brew-center.SVG'
+												src='/SVG/blast-n-brew-center.svg'
 												alt='Blast and Brew'
 											/>
 										</a>
@@ -35,7 +35,7 @@ export default function LogoCloud() {
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
-												src='/SVG/blast-825-black-bg.SVG'
+												src='/SVG/blast-825-black-bg.svg'
 												alt='Blast 825 Brewery'
 											/>
 										</a>
@@ -49,7 +49,7 @@ export default function LogoCloud() {
 							<Link href='/'>
 								<a>
 									<img
-										src='/SVG/ccrg-outlined.SVG'
+										src='/SVG/ccrg-outlined.svg'
 										alt='CCRG'
 										className='h-20 md:24 lg:h-28 w-auto mx-auto'
 									/>
