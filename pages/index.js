@@ -24,25 +24,25 @@ export default function Home() {
 				/>
 				<meta
 					property='og:image'
-					content='/images/pismo-blast-brew.jpg'
+					content='/Images/pismo-blast-brew.jpg'
 				/>
 				<meta property='og:url' content='' />
 				<link
 					rel='apple-touch-icon'
 					sizes='180x180'
-					href='/images/pismo-blast-brew.jpg'
+					href='/Images/pismo-blast-brew.jpg'
 				/>
 				<link
 					rel='icon'
 					type='image/png'
 					sizes='32x32'
-					href='/images/'
+					href='/Images/'
 				/>
 				<link
 					rel='icon'
 					type='image/png'
 					sizes='16x16'
-					href='/images/'
+					href='/Images/'
 				/>
 				<link rel='manifest' href='' />
 			</Head>

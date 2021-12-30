@@ -5,7 +5,7 @@ export default function GCHero() {
 				<div className='h-56 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2'>
 					<img
 						className='w-full h-full object-cover'
-						src='/images/ccrg-gc.jpg'
+						src='/Images/ccrg-gc.jpg'
 						alt='CCRG Gift Card Promo'
 					/>
 				</div>
