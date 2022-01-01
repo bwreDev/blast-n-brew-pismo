@@ -24,7 +24,7 @@ export default function Home() {
 				/>
 				<meta
 					property='og:image'
-					content='/images/pismo-blast-brew.jpg'
+					content='/Images/pismo-blast-brew.jpg'
 				/>
 				<meta property='og:url' content='' />
 				<link

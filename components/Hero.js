@@ -12,7 +12,10 @@ export default function Hero() {
 						<polygon points='50,0 100,0 50,100 0,100' />
 					</svg>
 					<div className='relative pt-6 px-4 sm:px-6 lg:px-8'>
-						<img src='/images/blast-brew-stacked-white.png' />
+						<img
+							src='/Images/blast-brew-stacked-white.png'
+							alt='Blast & Brew'
+						/>
 					</div>
 					<main className='mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28'>
 						<div className='sm:text-center lg:text-left'>
@@ -31,8 +34,8 @@ export default function Hero() {
 			<div className='lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2'>
 				<img
 					className='h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full'
-					src='/images/pismo-blast-brew.jpg'
-					alt='Blast & Brew'
+					src='/Images/pismo-blast-brew.jpg'
+					alt='Blast & Brew | Pismo'
 				/>
 			</div>
 		</div>
