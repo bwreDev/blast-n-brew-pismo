@@ -9,18 +9,19 @@ export default function LogoCloud() {
 						<div className='flow-root mt-8'>
 							<div className='flex flex-wrap justify-around'>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
-										<a>
-											<img
-												className='h-16 md:h-20 lg:h-24'
-												src='/svg/me-n-eds-crafthouse.svg'
-												alt="Me and Ed's"
-											/>
-										</a>
-									</Link>
+									<a
+										href='https://www.menedscentralcoast.com/'
+										target='_blank'
+										rel='noreferrer'>
+										<img
+											className='h-16 md:h-20 lg:h-24'
+											src='/svg/me-n-eds-crafthouse.svg'
+											alt="Me and Ed's"
+										/>
+									</a>
 								</div>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
+									<Link href='/'>
 										<a>
 											<img
 												className='h-16 md:h-20 lg:h-24'
@@ -31,15 +32,16 @@ export default function LogoCloud() {
 									</Link>
 								</div>
 								<div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
-									<Link href='/locations'>
-										<a>
-											<img
-												className='h-16 md:h-20 lg:h-24'
-												src='/svg/blast-825-black-bg.svg'
-												alt='Blast 825 Brewery'
-											/>
-										</a>
-									</Link>
+									<a
+										href='https://www.blast825brewery.com/'
+										target='_blank'
+										rel='noreferrer'>
+										<img
+											className='h-16 md:h-20 lg:h-24'
+											src='/svg/blast-825-black-bg.svg'
+											alt='Blast 825 Brewery'
+										/>
+									</a>
 								</div>
 							</div>
 						</div>
