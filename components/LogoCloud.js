@@ -15,7 +15,7 @@ export default function LogoCloud() {
 										rel='noreferrer'>
 										<img
 											className='h-16 md:h-20 lg:h-24'
-											src='/svg/me-n-eds-crafthouse.svg'
+											src='/SVG/me-n-eds-crafthouse.svg'
 											alt="Me and Ed's"
 										/>
 									</a>
@@ -38,7 +38,7 @@ export default function LogoCloud() {
 										rel='noreferrer'>
 										<img
 											className='h-16 md:h-20 lg:h-24'
-											src='/svg/blast-825-black-bg.svg'
+											src='/SVG/blast-825-black-bg.svg'
 											alt='Blast 825 Brewery'
 										/>
 									</a>
