@@ -6,7 +6,7 @@ export default function LogoCloud() {
       <div className='bg-[#d31e28] max-w-7xl mx-auto rounded-lg'>
         <div className='bg-grunge-overlay bg-cover bg-no-repeat bg-fixed'>
           <div className='max-w-7xl mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8'>
-            <div className='flow-root mt-8'>
+            <div className='flow-root'>
               <div className='flex flex-wrap justify-around'>
                 <div className='flex flex-grow flex-shrink-0 justify-center lg:flex-grow-0'>
                   <a
@@ -55,11 +55,11 @@ export default function LogoCloud() {
                   <img
                     src='/SVG/ccrg-outlined.svg'
                     alt='CCRG'
-                    className='h-20 md:24 lg:h-28 w-auto mx-auto'
+                    className='h-20 md:h-24 lg:h-28 w-auto mx-auto'
                   />
                 </a>
               </Link>
-              <p className='mt-8 text-center text-base text-zinc-200'>
+              <p className='pt-8 text-center text-base text-zinc-200'>
                 &copy; 2021 Central Coast Restaurant Group | All rights
                 reserved.
               </p>
