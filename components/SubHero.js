@@ -6,22 +6,22 @@ const data = {
   phone: '(805) 295-5151',
   email: 'info@blastandbrewpismobeach.com',
   hours: {
-    monday: '11:00 am - 9:00 pm',
-    tuesday: '11:00 am - 9:00 pm',
-    wednesday: '11:00 am - 9:00 pm',
-    thursday: '11:00 pm - 9:00 pm',
-    friday: '11:00 pm - 10:00 pm',
-    saturday: '11:00 pm - 10:00 pm',
-    sunday: '11:00 am - 9:00 pm',
+    monday: '11:00 am - 10:00 pm',
+    tuesday: '11:00 am - 10:00 pm',
+    wednesday: '11:00 am - 10:00 pm',
+    thursday: '11:00 pm - 10:00 pm',
+    friday: '11:00 pm - 11:00 pm',
+    saturday: '11:00 pm - 11:00 pm',
+    sunday: '11:00 am - 10:00 pm',
   },
   seoHours: {
-    monday: '11:00 - 21:00',
-    tuesday: '11:00 - 21:00',
-    wednesday: '11:00 - 21:00',
-    thursday: '11:00 - 21:00',
-    friday: '11:00 - 22:00',
-    saturday: '11:00 - 22:00',
-    sunday: '11:00 - 21:00',
+    monday: '11:00 - 22:00',
+    tuesday: '11:00 - 22:00',
+    wednesday: '11:00 - 22:00',
+    thursday: '11:00 - 22:00',
+    friday: '11:00 - 23:00',
+    saturday: '11:00 - 23:00',
+    sunday: '11:00 - 22:00',
   },
   social: {
     facebook: 'https://www.facebook.com/Blast-Brew-Pismo-Beach-109813094869833',
@@ -55,9 +55,12 @@ export default function SubHero() {
                 </a>
               </h3>
               <p className='mt-4 text-base text-white'>
-                <a href={`tel:${data.phone}`}>{data.phone}</a>
+                <a className='hover:text-[#d31e28]' href={`tel:${data.phone}`}>
+                  {data.phone}
+                </a>
                 <br />
                 <a
+                  className='hover:text-[#d31e28]'
                   href={`mailto:${data.email}?cc=wendy@cc-rg.com, dferdinandi@blast825taproom.com&subject=Contact Pismo Blast & Brew `}
                 >
                   {data.email}
