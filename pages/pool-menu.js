@@ -92,7 +92,7 @@ export default function PoolMenu() {
             </h3>
             <p className='text-red-500'>
               <span className='text-white uppercase text-sm'>ten pieces </span>|
-              18
+              20
             </p>
             <p className='col-span-2'>
               Served with side of Waffle Fries and your choice of Ranch or Bleu
@@ -164,17 +164,6 @@ export default function PoolMenu() {
               Bread Bowl +4
               <br />
               Garlic Cheese Bread +3
-            </p>
-          </div>
-          <div className='grid grid-cols-2 leading-7 text-white py-6'>
-            <h3 className='font-semibold text-xl uppercase pb-6'>
-              Crispy Brussel Sprouts
-            </h3>
-            <p className='text-red-500'>| 15</p>
-            <p className='col-span-2'>
-              Crispy Bacon, Parmesan, Balsamic Glaze
-              <br />
-              Add Bacon +$2 | Add Blue Cheese Crumbles +2
             </p>
           </div>
         </section>
@@ -364,7 +353,7 @@ export default function PoolMenu() {
             <h3 className='font-semibold text-xl uppercase pb-6'>
               Santa Maria Valley Veggi
             </h3>
-            <p className='text-red-500'>| 19</p>
+            <p className='text-red-500'>| 18</p>
             <p className='col-span-2'>
               Alfredo Sauce, Roasted Seasoned Veggies, Tomato, Mushrooms,
               Grilled Onion, Aritchoke Hearts, Garlic & Fresh Mozzarella
@@ -372,7 +361,7 @@ export default function PoolMenu() {
           </div>
           <div className='grid grid-cols-2 leading-7 text-white py-6'>
             <h3 className='font-semibold text-xl uppercase pb-6'>The Cowboy</h3>
-            <p className='text-red-500'>| 19</p>
+            <p className='text-red-500'>| 18</p>
             <p className='col-span-2'>
               Tri Tip, Red Onion, Mozzerella Cheese, Garlic & Parmesean Cheese
             </p>
@@ -403,7 +392,7 @@ export default function PoolMenu() {
             <p className='text-red-500'>| 13</p>
           </div>
         </section>
-        {/* Appetizer section end */}
+        {/* Dessert section end */}
       </div>
     </div>
   );
